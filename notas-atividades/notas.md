@@ -1,7 +1,3 @@
-# DIO EDUZZ fullstack dev
-
-Aqui são feitas as anotações relacionadas ao bootcamp FullStack Dev Eduzz
-
 # Projetos Ágeis com SCRUM
 
 ## Introdução
